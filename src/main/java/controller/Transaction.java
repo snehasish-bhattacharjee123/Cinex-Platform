@@ -46,7 +46,7 @@ public class Transaction extends HttpServlet {
 		}
 		else
 		{
-			pw.println("error...");
+			pw.println("Error...");
 		}
 		
 	}

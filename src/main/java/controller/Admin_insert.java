@@ -53,7 +53,7 @@ public class Admin_insert extends HttpServlet {
 			response.sendRedirect("admindashboard.jsp");
 		}
 		else {
-			pw.println("<h2>Error...."+"</h2>");
+			pw.println("<h2>Error....."+"</h2>");
 		}
 	}
 

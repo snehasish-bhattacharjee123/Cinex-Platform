@@ -42,7 +42,7 @@ public class Admin_valid extends HttpServlet {
 		}
 		else
 		{
-			pw.println("<h2>Error...."+"</h2>");
+			pw.println("<h2>Error....."+"</h2>");
 		}
 	}
 
